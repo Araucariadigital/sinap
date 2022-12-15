@@ -1,0 +1,8 @@
+-c constraints.txt
+-e src/sinap[test]
+
+zope.testrunner
+
+# Add required add-ons
+# (Ideally add them in setup.py for sinap)
+# collective.easyform
